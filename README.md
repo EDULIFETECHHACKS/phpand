@@ -38,7 +38,7 @@ ls
 
 ## starting php 
 ```
-msfconsole
+nano hello.php
 ```
 ## check out video on youtube on php installation:  
 ```
