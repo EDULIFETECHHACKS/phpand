@@ -1,0 +1,15 @@
+#bin/bash
+cd $HOME
+pkg update -y
+pkg upgrade -y
+clear
+apt install php -y
+apt install nano
+clear
+nano hello.php
+echo
+echo "        you are done up with php installation.....!"
+echo
+ctrl+o
+ctrl+x
+
