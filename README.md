@@ -40,6 +40,12 @@ ls
 ```
 nano hello.php
 ```
+
+
+## updating php 
+```
+updatephp.php
+```
 ## check out video on youtube on php installation:  
 ```
 https://youtu.be/UfTPwsIxyV0
