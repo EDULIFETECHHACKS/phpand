@@ -7,8 +7,7 @@ apt install php -y
 apt install nano
 clear
 nano hello.php
-<?php echo "Hello, World!"; ?>
-
+php -R <?php echo "Hello, World!"; ?>
 echo
 echo "        you are done up with php installation.....!"
 echo
