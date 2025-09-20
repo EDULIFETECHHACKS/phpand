@@ -2,17 +2,17 @@
 
 # php on android via termux
 It is the most prominent and commonly used programming model on the globe, owing to its free software character and ease of use. Some of its characteristics are:
-![img php](.readme/R.webp)
-Simplicity
-Efficiency
-Platform Independent
-Security
-Flexibility
-Error Reporting
-Loosely Typed Language
-Real-Time Access Monitoring
+![img php](.readme/R.jpg)
+Simplicity,
+Efficiency,
+Platform Independent,
+Security,
+Flexibility,
+Error Reporting,
+Loosely Typed Language,
+Real-Time Access Monitoring.
 
-![img php2](.readme/php1.jpg)
+![img php](.readme/php1.webp)
 
 ## Clone it
 
