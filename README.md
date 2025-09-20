@@ -48,7 +48,7 @@ updatephp.php
 ```
 ## check out video on youtube on php installation:  
 ```
-https://youtu.be/UfTPwsIxyV0
+https://youtu.be/c3HXRagP_H4
 ```
 
 ## youtube channel :
